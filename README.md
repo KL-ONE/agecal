@@ -1,5 +1,3 @@
-![kl-one logo](https://photos.app.goo.gl/UGTpK7phXJcWtuDz9)
-
 ## Agecal
 
 Agecal is a simple Python tool that calculates your current age, made for Termux and Linux
